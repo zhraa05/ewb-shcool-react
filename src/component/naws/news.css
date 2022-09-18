@@ -1,0 +1,19 @@
+.newsletter {
+    background: #17bf9e;
+
+    padding: 60px;
+    border-radius: 15px;
+}
+
+.newsletter h2 {
+    color: #fff;
+}
+
+.subscribe input {
+    border-radius: 50px;
+
+    border: 1px solid #17bf9e;
+    margin-bottom: 10px;
+    outline: none;
+    height: 45%;
+}
